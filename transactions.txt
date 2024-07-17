@@ -1,0 +1,11 @@
+Income: 20000-salary
+Expense: 5000 - groceries
+Expense: 1000 - electricity bill
+income: 3000.0 - fixed deposit interest
+2: 300.0 - vegetables
+expense: 100.0 - groceries
+income: 1000.0 - extra working hour charges
+income: 2000.0 - salary
+expense: 200.0 - groceries
+Income: 1000-salary
+Expense: 2000 - electricity
